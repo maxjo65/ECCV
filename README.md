@@ -1,6 +1,8 @@
 # ECCV
 The electrochemical commercial vehicle (ECCV) platform for Matlab Simulink is a free and open source environment for battery and fuel cell hybrid truck simulation. We only ask that you cite the original paper (https://doi.org/10.3390/en17071742) if you use it for a publication.
 
+Minimum requirements: MATLAB Simulink version 2023a or later.
+
 # Quick-start
 1. Download the files.
 2. Add all folders to the MATLAB path.
